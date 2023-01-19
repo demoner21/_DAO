@@ -8,28 +8,29 @@ Technologies Used
     Tirdweb library
     ReactJS
 
-##Getting Started
+## Getting Started
 
 To run this project, you will need to have Node.js and npm installed on your machine.
 
-    Clone the repository: git clone https://github.com/yourusername/DAO-JavaScript-Project.git
+    Clone the repository: git clone https://github.com/demoner21/_DAO.git
     Install the dependencies: npm install
     Start the development server: npm start
     Open a web browser and navigate to http://localhost:3000 to view the application.
 
-##Features
+## Features
 
     Create a new DAO
     Manage members and roles
     Propose and vote on actions
     View transaction history
 
-##Contributions
+## Contributions
 
 This is an open-source project and contributions are welcome. If you would like to contribute, please submit a pull request with a detailed description of your changes.
 Note
 
 This is a sample project and its not tested so you might need to debug and test the code on your local environment.
+you can also check the project in this replit link https://replit.com/@ADemoner/Dao-app#src/App.jsx
 
 ## Testing
 
